@@ -1,7 +1,14 @@
 ### 🛠️ About me
 ---
-- Contact : nexon9093@gmail.com <div align="right">![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nexon9093)</div>
-
+<div style="display: flex; justify-content: space-between; align-items: center; width: 30%;">
+  <div style="flex: 1;">
+    - Contact : nexon9093@gmail.com <br>
+    - Dev Blog : https://velog.io/@webskz/posts
+  </div>
+  <div align = "right">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nexon9093" alt="Solved.ac Profile">
+  </div>
+</div>
 
 ---
 ### 🛠️ Languages and Tools
