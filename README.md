@@ -22,12 +22,3 @@
 
 ### 🛠️ Contributions
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-### 🛠️ GitHub Stats
-![Joohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=joohyun1996&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joohyun1996&layout=compact&theme=radical)
-
----
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joohyun1996&theme=radical)
