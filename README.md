@@ -1,10 +1,11 @@
-### 🛠️ About me
-<div style="display: flex; align-items: center; gap: 20px;">
+# 매일 성장하는 개발자 이주현입니다.
 
+<div style="display: flex; align-items: center; gap: 20px;">
   <div style="font-size: 15px; line-height: 1.6;">
     <b>📧 Contact</b> : nexon9093@gmail.com <br>
     <b>✍️ Dev Blog</b> : <a href="https://velog.io/@webskz/posts">https://velog.io/@webskz/posts</a>
   </div>
+  
   <div>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nexon9093" 
          alt="Solved.ac Profile" 
@@ -16,17 +17,17 @@
 ### 주요 경험 (Project Experience)
 
 ### Project : 운다방 (근처 운동메이트 찾기 서비스)
-- 기간: 2025.04 ~ 현재 진행 중
-- 한 줄 요약: 운동 파트너를 찾고 함께 운동할 수 있도록 연결하는 소셜 매칭 서비스
-- 주요 역할: 백엔드 개발, AWS 인프라 설계 및 구축
-- 사용한 기술: Java, Spring Boot, JPA, Querydsl, TDD, AWS (EC2, S3, RDS, ECR, CloudFront, Route 53, API Gateway, Cognito), Docker, Github Actions, CodeDeploy, LocalStack
+- **기간**: 2025.04 ~ 현재 진행 중
+- **한 줄 요약**: 운동 파트너를 찾고 함께 운동할 수 있도록 연결하는 소셜 매칭 서비스
+- **주요 역할**: 백엔드 개발, AWS 인프라 설계 및 구축
+- **사용한 기술**: Java, Spring Boot, JPA, Querydsl, TDD, AWS (EC2, S3, RDS, ECR, CloudFront, Route 53, API Gateway, Cognito), Docker, Github Actions, CodeDeploy, LocalStack
 - [구글 플레이스토어](https://play.google.com/store/apps/details?id=com.project200.undabang&hl=ko), [iOS PWA](https://www.undabang.store)
 
 ### Project : t3team (온라인 서점 서비스)
-- 기간: 2024.03 ~ 2024.05
-- 한 줄 요약: 4명의 백엔드 개발자가 Spring Cloud 기반의 MSA 환경에서 협업하여 개발한 온라인 서점 서비스
-- 주요 역할: 백엔드 개발 (인프라, CI/CD, 인증/인가)
-- 사용한 기술: Java, Spring Boot, Spring Cloud (Gateway, Eureka), OpenFeign, JPA, Querydsl, Redis, Spring REST Docs, Jenkins, SonarQube, Github Actions, MySQL
+- **기간**: 2024.03 ~ 2024.05
+- **한 줄 요약**: 4명의 백엔드 개발자가 Spring Cloud 기반의 MSA 환경에서 협업하여 개발한 온라인 서점 서비스
+- **주요 역할**: 백엔드 개발 (인프라, CI/CD, 인증/인가)
+- **사용한 기술**: Java, Spring Boot, Spring Cloud (Gateway, Eureka), OpenFeign, JPA, Querydsl, Redis, Spring REST Docs, Jenkins, SonarQube, Github Actions, MySQL
 ---
 
 ### 보유 기술 (Skills)
